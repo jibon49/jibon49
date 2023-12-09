@@ -12,7 +12,7 @@
 
 
 # Technologies that I know
-<p>
+<p  align = "center" dir="auto">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,firebase,tailwind,c,java" />
   </a>
