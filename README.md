@@ -1,16 +1,16 @@
-### Hi there 👋
+# 📊Overview
 
-<!--
-**jibon49/jibon49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm SM Mynul Islam Gibon, a junior MERN stack developer.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Exploring the fascinating realm of development.
+
+ 🌱 I’m currently learning mongoose, MaterialUI
+
+🤝 Looking for collaborative opportunity
+
+💡 Passionate about web development
+
+🎮 Fun Fact: Too much error ! maybe gaming can fresh my mind.
+
+
