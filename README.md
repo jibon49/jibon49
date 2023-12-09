@@ -6,7 +6,7 @@
 
 
 # 📊Current State
-[![GitHub Streak](https://streak-stats.demolab.com?user=jibon49&theme=tokyonight)](https://git.io/streak-stats)
+<a style="display: block; margin: 0 auto;" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jibon49&theme=tokyonight" alt="GitHub Streak" /></a>
 
 
 # Technologies that I know
