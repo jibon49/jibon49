@@ -6,11 +6,13 @@
 
 
 # 📊Current State
-<a style="display: block; margin: 0 auto;" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jibon49&theme=tokyonight" alt="GitHub Streak" /></a>
+<p align = "center" dir="auto">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jibon49&theme=tokyonight" alt="GitHub Streak" /></a>
+</p>
 
 
 # Technologies that I know
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,firebase,tailwind,c,java" />
   </a>
